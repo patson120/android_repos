@@ -1,3 +1,16 @@
+*{
+  font-family: 'Josefin Sans';
+}
+
+
+
+
+
 h1{
   color: green;
+}
+
+.icon{
+  height: 40px;
+  width: 40px;
 }
